@@ -52,4 +52,4 @@ retail-sales-analysis/
 - Design special weekend promotions to capitalize on higher footfall.
 - Create targeted campaigns for the 26-35 age group.
 - Consider bundling Beauty products with Clothing for female customers to increase basket size.
->>>>>>> 7a39498c843ae9365366a6616c84964bfa7fbd45
+
