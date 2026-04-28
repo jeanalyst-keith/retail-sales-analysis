@@ -6,19 +6,30 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📋 Business Problem
-A retail company wants to better understand sales trends, customer behavior, and product performance to optimize inventory, pricing, and marketing strategies.
+A retail company wants to understand sales performance, customer behavior, and product profitability to optimize inventory, marketing, and pricing strategies.
 
 ## 🎯 Project Objective
 Perform end-to-end Exploratory Data Analysis (EDA) on retail transaction data and build an interactive dashboard to deliver actionable business insights.
-
-## 📊 Dataset
-- **Source**: Retail Sales Dataset (Kaggle)
-- **Records**: ~1,000 transactions
-- **Features**: Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, Total Amount, etc.
 
 ## 🛠 Tech Stack
 - **Languages & Libraries**: Python, Pandas, NumPy, Plotly, Seaborn
 - **Visualization**: Plotly + Power BI
 - **Tools**: Jupyter Notebook, GitHub
 
-## 📁 Project Structure
+```bash
+retail-sales-analysis/
+├── data/
+│   ├── raw/
+│   │   └── retail_sales_dataset.csv
+│   └── processed/
+│       └── cleaned_sales.csv
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   └── 02_eda_and_visualization.ipynb
+├── scripts/
+│   └── data_preprocessing.py
+├── dashboards/
+│   └── screenshots/
+├── requirements.txt
+├── .gitignore
+└── README.md
