@@ -21,7 +21,6 @@ Perform end-to-end Exploratory Data Analysis (EDA) on retail transaction data an
 =======
 ## 📁 Project Structure
 
->>>>>>> 7a39498c843ae9365366a6616c84964bfa7fbd45
 retail-sales-analysis/
 ├── data/
 │   ├── raw/
