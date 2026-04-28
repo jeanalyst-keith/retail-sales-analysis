@@ -22,18 +22,23 @@ Perform end-to-end Exploratory Data Analysis (EDA) on retail transaction data an
 - **Tools**: Jupyter Notebook, GitHub
 
 ## 📁 Project Structure
+
 retail-sales-analysis/
-├── data/raw/
-├── data/processed/
+├── data/
+│   ├── raw/
+│   │   └── retail_sales_dataset.csv
+│   └── processed/
+│       └── cleaned_sales.csv
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   └── 02_eda_and_visualization.ipynb
 ├── scripts/
 │   └── data_preprocessing.py
 ├── dashboards/
+│   └── screenshots/
 ├── requirements.txt
+├── .gitignore
 └── README.md
-
 ## 🔍 Key Business Insights
 
 - **Electronics** and **Clothing** are the top revenue-generating categories.
