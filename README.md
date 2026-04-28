@@ -16,7 +16,6 @@ Perform end-to-end Exploratory Data Analysis (EDA) on retail transaction data an
 - **Visualization**: Plotly + Power BI
 - **Tools**: Jupyter Notebook, GitHub
 
-<<<<<<< HEAD
 ```bash
 =======
 ## 📁 Project Structure
@@ -37,7 +36,7 @@ retail-sales-analysis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-<<<<<<< HEAD
+```
 =======
 ## 🔍 Key Business Insights
 
