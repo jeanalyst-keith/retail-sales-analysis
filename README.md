@@ -16,10 +16,10 @@ Perform end-to-end Exploratory Data Analysis (EDA) on retail transaction data an
 - **Visualization**: Plotly + Power BI
 - **Tools**: Jupyter Notebook, GitHub
 
+
+## 📁 Project Structure
 ```bash
 =======
-## 📁 Project Structure
-
 retail-sales-analysis/
 ├── data/
 │   ├── raw/
@@ -36,8 +36,9 @@ retail-sales-analysis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-```
 =======
+```
+
 ## 🔍 Key Business Insights
 
 - **Electronics** and **Clothing** are the top revenue-generating categories.
