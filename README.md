@@ -22,7 +22,17 @@ Perform end-to-end Exploratory Data Analysis (EDA) on retail transaction data an
 - **Tools**: Jupyter Notebook, GitHub
 
 ## 📁 Project Structure
-
+retail-sales-analysis/
+├── data/raw/
+├── data/processed/
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   └── 02_eda_and_visualization.ipynb
+├── scripts/
+│   └── data_preprocessing.py
+├── dashboards/
+├── requirements.txt
+└── README.md
 
 ## 🔍 Key Business Insights
 
